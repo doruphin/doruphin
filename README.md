@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img width="1000" height="800" alt="Cracked-Screen-PNG-Image-Transparent-Background" src="https://github.com/user-attachments/assets/d79d5589-7c24-4f43-a63e-ff5c4560cfea" />
+
+You should probably get that checked out...
 <!--
 **ZenBubble/ZenBubble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
