@@ -1,4 +1,4 @@
-## Hi there 👋 wait a minute... what happened to your screen?
+## Hi ther- wait a minute... what happened to your screen?
 
 <img width="1000" height="800" alt="funi" src="https://github.com/user-attachments/assets/8a667c5c-0ca9-41c4-9b71-ecaa90a41992" />
 
