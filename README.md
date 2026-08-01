@@ -1,6 +1,7 @@
 ## Hi ther- wait a minute... what happened to your screen?
 
-<img width="1000" height="800" alt="funi" src="https://github.com/user-attachments/assets/8a667c5c-0ca9-41c4-9b71-ecaa90a41992" />
+<img width="755" height="960" alt="dancin_cat" src="https://github.com/user-attachments/assets/c3a61203-33e3-40e5-aa0c-c48086fbc1a7" />
+
 
 You should probably get that checked out...
 <!--
