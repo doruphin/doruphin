@@ -7,7 +7,13 @@
 </picture>
 
 
-You should probably get that checked out...
+Seriously though...
+
+here are my links,
+heres what i like to do/ what im aiming dfor,
+here are some of my coding adventures other than projects and work
+i go into more in my website
+
 <!--
 **ZenBubble/ZenBubble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
